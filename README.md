@@ -5,13 +5,10 @@
 > **Research Internship — National Institute of Technology, Patna**
 
 ---
-
-## Publication
-
-> Arnab Harsh and B. C. Nagar, "Compact and Energy Efficient 8-Point FFT using Booth Multiplier-based MAC Unit," *IEEE Embedded Systems Letters*, Sept. 2025. [Communicated]
-
----
-
+## 📄 Publication
+Arnab Harsh and B. C. Nagar, "Compact and Energy Efficient 8-Point FFT 
+using Booth Multiplier-based MAC Unit," *IEEE Embedded Systems Letters*, 
+Sept. 2025. [Under Review — IEEE Xplore link will be added upon publication]
 ## Overview
 
 This project presents a **compact and energy-efficient 8-point FFT (Fast Fourier Transform)** implemented on FPGA using a custom **Booth Multiplier-based MAC (Multiply-Accumulate) Unit**. The design targets reduced hardware resource utilization and improved energy efficiency compared to conventional FFT implementations that use standard multipliers.
