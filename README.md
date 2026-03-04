@@ -74,14 +74,6 @@ Standard binary multipliers generate many partial products, leading to higher ar
 
 *(Results from Xilinx Vivado — update with your actual values)*
 
-| Resource | Used | Available | Utilization |
-|---|---|---|---|
-| LUTs | XX | XXXXX | XX% |
-| Flip-Flops | XX | XXXXX | XX% |
-| DSP Blocks | XX | XX | XX% |
-| Max Frequency | XX MHz | — | — |
-| Power (Dynamic) | XX mW | — | — |
-
 ---
 
 ## Tools Used
